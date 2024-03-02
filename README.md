@@ -41,7 +41,7 @@ venv\Scripts\activate.bat
 Копирование с `git`:
 
 ```bash
-
+git clone https://github.com/ruauka/docker_service.git
 ```
 
 1. Требуется установить все зависимости проекта:
