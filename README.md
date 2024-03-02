@@ -19,8 +19,14 @@
 
 ### Venv
 
+Копирование с `git`:
+
+```bash
+git clone https://github.com/ruauka/docker_service.git
+```
+
 Требуется создать виртуальное окружение (папка `venv`).
-В Pycharm создается автоматически, при инициализации нового проекта.
+В Pycharm создается автоматически, при открытии проекта.
 
 Создание venv вручную на `Windows`:
 
@@ -37,12 +43,6 @@ venv\Scripts\activate.bat
 ### Start
 
 Локальный запуск.
-
-Копирование с `git`:
-
-```bash
-git clone https://github.com/ruauka/docker_service.git
-```
 
 1. Требуется установить все зависимости проекта:
 
